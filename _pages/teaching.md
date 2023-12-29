@@ -7,7 +7,7 @@ author_profile: true
 
 ## The University of Chicago
 ### PhD
-* <span style="color:blue"> Asset Pricing III </span>: TA for George Constantinides and Stefan Nagel \
+* <span style="color:#eb4034"> Asset Pricing III </span>: TA for George Constantinides and Stefan Nagel \
   Spring 2024
 * <span style="color:blue"> Asset Pricing II </span>: TA for Lars Hansen and Stefan Nagel \
   Winter 2023

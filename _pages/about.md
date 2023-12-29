@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Fulin Li"
+#title: "Filippo Cavaleri"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance at Texas A&M University Mays Business School. I obtained my Ph.D. in Financial Economics from the University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.
+I am a PhD student in financial economics at the University of Chicago, Booth School of Business
 
-**Contact**: fli3@mays.tamu.edu
+**Contact**: fcavaler@chicagobooth.edu
 
-**Research Interests**: Asset Pricing, Macroeconomics
+**Research Interests**: Asset Pricing, Macrofinance
 
 [**Research**](https://lifulin.github.io/research/)
 

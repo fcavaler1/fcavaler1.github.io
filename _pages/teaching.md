@@ -18,7 +18,7 @@ author_profile: true
 
 ### Working Groups
 * Founder & Organizer of Chicago Booth Theory Reading Group with Zhiguo He (Ongoing)
-* <!---Co-Organizer of Chicago Booth Asset Pricing Working Group with Ralph Koijen and Stefan Nagel (Ongoing) --->
+<!--- * Co-Organizer of Chicago Booth Asset Pricing Working Group with Ralph Koijen and Stefan Nagel (Ongoing) --->
 * Co-Organizer of Chicago Booth Finance Brownbag (2022-2023)
 
 ## University of St. Gallen (HSG)

@@ -14,6 +14,6 @@ I am a PhD student in financial economics at the University of Chicago, Booth Sc
 
 **Research Interests**: Asset Pricing, Macrofinance
 
-[**Research**](https://lifulin.github.io/research/)
+[**Research**](https://fcavaler1.github.io/research/)
 
-[**CV**](../files/CV_Fulin_Li.pdf)
+<!---[**CV**](../files/CV_Fulin_Li.pdf)-->

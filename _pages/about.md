@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in financial economics at the University of Chicago, Booth School of Business
+I am a PhD student in financial economics at the University of Chicago, Booth School of Business.
 
 **Contact**: fcavaler@chicagobooth.edu
 

@@ -16,5 +16,5 @@ I am a fourth year PhD student in the [joint program in financial economics](htt
 
 [**Research**](https://fcavaler1.github.io/research/)
 
-<!---[**CV**](../files/CV_Fulin_Li.pdf)-->
+[**CV**](../files/CavaleriFilippo_CV.pdf)
 <!--- Comment -->

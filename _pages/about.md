@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in financial economics at the University of Chicago, Booth School of Business.
+I am a fourth year PhD student in the [joint program in financial economics](https://financialeconomics.uchicago.edu/) at the University of Chicago, Booth School of Business and Kenneth C. Griffin Department of Economics. 
 
 **Contact**: fcavaler@chicagobooth.edu
 

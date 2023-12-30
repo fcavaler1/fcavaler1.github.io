@@ -18,8 +18,8 @@ author_profile: true
 
 ### Working Groups
 * Founder & Organizer of Chicago Booth Theory Reading Group with Zhiguo He (Ongoing)
+* Co-Organizer of Chicago Booth Asset Pricing Working Group with Ralph Koijen and Stefan Nagel (Ongoing) 
 * Co-Organizer of Chicago Booth Finance Brownbag (2022-2023)
-<!--- * Co-Organizer of Chicago Booth Asset Pricing Working Group with Ralph Koijen and Stefan Nagel (Ongoing) --->
 
 ## University of St. Gallen (HSG)
 * <span style="color:#840404"> Market Microstructure</span>: TA for Angelo Ranaldo (Winter 2019)

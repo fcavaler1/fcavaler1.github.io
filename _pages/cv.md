@@ -26,7 +26,7 @@ redirect_from:
 
 ## Work Experience
 * <span style="color:#840404"> **University of St. Gallen**  </span> – Research Assistant\
-  <SPAN style="font-size:18px"> _St. Gallen (2019 - 2020)_ </span> \
+  <SPAN style="font-size:10px"> _St. Gallen (2019 - 2020)_ </span> \
   Chair of Finance and Systemic Risk - Angelo Ranaldo
 
 * <span style="color:#840404"> **Swiss National Bank**  </span> - Economic Analysis Intern\

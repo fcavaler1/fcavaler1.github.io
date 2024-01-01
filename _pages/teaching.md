@@ -8,7 +8,7 @@ author_profile: true
 ## The University of Chicago
 ### PhD
 * <span style="color:#840404"> **Asset Pricing III** </span>: TA for _George Constantinides_ and _Stefan Nagel_ (Spring 2024)
-* <span style="color:#840404"> **Asset Pricing II** </span>: TA for _Lars Hansen and _Stefan Nagel_ (Winter 2023) 
+* <span style="color:#840404"> **Asset Pricing II** </span>: TA for _Lars Hansen_ and _Stefan Nagel_ (Winter 2023) 
 * <span style="color:#840404"> **Asset Pricing I** </span>: TA for _George Constantinides_ (Fall 2022) 
 * <span style="color:#840404"> **Empirical Analysis III** </span>: TA for _James J. Heckman_ (Spring 2022)
   

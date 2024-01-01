@@ -35,7 +35,7 @@ redirect_from:
 
 * <span style="color:#840404"> **d-fine GmbH**  </span> – Consulting Intern\
   _Frankfurt am Main (2017)_\
-  Consulting in the field of risk and finance
+  Consulting, financial and risk reporting.
 
 * <span style="color:#840404"> **ETH Zurich**  </span> – Research and Development Intern\
   _Zurich (2017)_\

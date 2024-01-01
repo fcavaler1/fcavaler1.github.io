@@ -30,14 +30,14 @@ redirect_from:
   Chair of Finance and Systemic Risk - Angelo Ranaldo
 
 * <span style="color:#840404"> **Swiss National Bank**  </span> - Economic Analysis Intern\
-  <font size="2"> _Zurich (2017 - 2018)_ </font>\
+  _Zurich (2017 - 2018)_ \
   International economic analysis unit – Christian Hepenstrick
 
 * <span style="color:#840404"> **d-fine GmbH**  </span> – Consulting Intern\
-  <font size="2"> _Frankfurt am Main (2017)_ </font> \
+  _Frankfurt am Main (2017)_  \
   Consulting, financial and risk reporting.
 
 * <span style="color:#840404"> **ETH Zurich**  </span> – Research and Development Intern\
-  <font size="2"> _Zurich (2017)_  </font>  \
+  _Zurich (2017)_   \
   Joint research project – ETH Zurich and Huber+Suhner AG
 

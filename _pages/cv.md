@@ -26,11 +26,11 @@ redirect_from:
 
 ## Work Experience
 * University of St. Gallen – Research Assistant\
-<font size: "2" > _St. Gallen (2019 - 2020)_ </font>\
+  _St. Gallen (2019 - 2020)_ 
   Chair of Finance and Systemic Risk - Angelo Ranaldo
 
 * Swiss National Bank - Economic Analysis Intern\
- <font size: "2" >  _Zurich (2017 - 2018)_  </font>\
+  _Zurich (2017 - 2018)_ \
   International economic analysis unit – Christian Hepenstrick
 
 * d-fine GmbH – Consulting Intern\

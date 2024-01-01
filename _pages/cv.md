@@ -11,7 +11,7 @@ redirect_from:
 <!---  Coming soon. --->
 
 ## Education
-* The University of Chicago\
+*  <span style="color:#840404"> **The University of Chicago**  </span> \
   Ph.D. Joint Program in Financial Economics  (2020 - 2025)\
   Booth School of Business & Kenneth C. Griffin Department of Economics
 
@@ -38,6 +38,6 @@ redirect_from:
   Consulting in the field of risk and finance
 
 * ETH Zurich – Research and Development Intern\
-*  _Zurich (2017)_\
+  _Zurich (2017)_\
   Joint research project – ETH Zurich and Huber+Suhner AG
 

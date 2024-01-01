@@ -26,18 +26,18 @@ redirect_from:
 
 ## Work Experience
 * <span style="color:#840404"> **University of St. Gallen**  </span> – Research Assistant\
-  <SPAN style="font-size:10px"> _St. Gallen (2019 - 2020)_ </span> \
+  <span style="font-size:14px"> _St. Gallen (2019 - 2020)_ </span> \
   Chair of Finance and Systemic Risk - Angelo Ranaldo
 
 * <span style="color:#840404"> **Swiss National Bank**  </span> - Economic Analysis Intern\
-  _Zurich (2017 - 2018)_ \
+  <span style="font-size:14px"> _Zurich (2017 - 2018)_ </span>  \
   International economic analysis unit – Christian Hepenstrick
 
 * <span style="color:#840404"> **d-fine GmbH**  </span> – Consulting Intern\
-  _Frankfurt am Main (2017)_  \
+  <span style="font-size:14px"> _Frankfurt am Main (2017)_ </span> \
   Consulting, financial and risk reporting.
 
 * <span style="color:#840404"> **ETH Zurich**  </span> – Research and Development Intern\
-  _Zurich (2017)_   \
+  <span style="font-size:14px"> _Zurich (2017)_  </span> \
   Joint research project – ETH Zurich and Huber+Suhner AG
 

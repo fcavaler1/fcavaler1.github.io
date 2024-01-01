@@ -16,7 +16,7 @@ redirect_from:
   Booth School of Business & Kenneth C. Griffin Department of Economics
 
 * <span style="color:#840404"> **University of St. Gallen (HSG)**  </span> \
-  M.A. HSG in Quantitative Economics and Finance ([MiQE/F](https://www.unisg.ch/de/studium/programme/master/quantitative-economics-and-finance-miqe-f/) (2020)
+  M.A. HSG in Quantitative Economics and Finance ([MiQE/F](https://www.unisg.ch/de/studium/programme/master/quantitative-economics-and-finance-miqe-f/)) (2020)
 
 * <span style="color:#840404"> **University of St. Gallen (HSG)**  </span> \
   B.A. HSG in Economics (2018)

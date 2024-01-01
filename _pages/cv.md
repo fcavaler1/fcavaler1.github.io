@@ -15,29 +15,29 @@ redirect_from:
   Ph.D. Joint Program in Financial Economics  (2020 - 2025)\
   Booth School of Business & Kenneth C. Griffin Department of Economics
 
-* University of St. Gallen (HSG) \
+* <span style="color:#840404"> **University of St. Gallen (HSG)**  </span> \
   M.A. HSG in Quantitative Economics and Finance (MiQE/F) (2020)
 
-* University of St. Gallen (HSG) \
+* <span style="color:#840404"> **University of St. Gallen (HSG)**  </span> \
   B.A. HSG in Economics (2018)
 
-* London School of Economics\
+*  <span style="color:#840404"> **London School of Economics (LSE)**  </span> \
   Visiting Undergraduate Student (2016)
 
 ## Work Experience
-* University of St. Gallen – Research Assistant\
+* <span style="color:#840404"> **University of St. Gallen**  </span> – Research Assistant\
   _St. Gallen (2019 - 2020)_ 
   Chair of Finance and Systemic Risk - Angelo Ranaldo
 
-* Swiss National Bank - Economic Analysis Intern\
+* <span style="color:#840404"> **Swiss National Bank**  </span> - Economic Analysis Intern\
   _Zurich (2017 - 2018)_ \
   International economic analysis unit – Christian Hepenstrick
 
-* d-fine GmbH – Consulting Intern\
+* <span style="color:#840404"> **d-fine GmbH**  </span> – Consulting Intern\
   _Frankfurt am Main (2017)_\
   Consulting in the field of risk and finance
 
-* ETH Zurich – Research and Development Intern\
+* <span style="color:#840404"> **ETH Zurich**  </span> – Research and Development Intern\
   _Zurich (2017)_\
   Joint research project – ETH Zurich and Huber+Suhner AG
 

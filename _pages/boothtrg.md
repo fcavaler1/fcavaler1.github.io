@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Booth Theory Reading Group"
+title: "Chicago Booth Theory Reading Group"
 permalink: /boothtrg/
 author_profile: true
 redirect_from:

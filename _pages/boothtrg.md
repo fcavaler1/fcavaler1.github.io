@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Booth TRG"
+title: "Booth Theory Reading Group"
 permalink: /boothtrg/
 author_profile: true
 redirect_from:

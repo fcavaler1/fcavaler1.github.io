@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Booth TRG"
+permalink: /boothtrg/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ## Winter 2024
 
 

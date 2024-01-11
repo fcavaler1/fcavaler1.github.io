@@ -1,6 +1,5 @@
 ## Winter 2024
 
-<!---> Zoom link: [here](https://uchicago.zoom.us/j/97600583785?pwd=NFVzWXkraTBrdTJUbERrdGN5dUlvZz09). </-->
 
 | Date              | Location   | Presenter                | Topic              |
 |-------------------|------------|--------------------------|--------------------|

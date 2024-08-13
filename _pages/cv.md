@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 *  <span style="color:#840404"> **The University of Chicago**  </span> \
-  Ph.D. Joint Program in Financial Economics  (2020 - 2025)\
+  Ph.D. Joint Program in Financial Economics  (2020 - present)\
   Booth School of Business & Kenneth C. Griffin Department of Economics
 
 * <span style="color:#840404"> **University of St. Gallen (HSG)**  </span> \

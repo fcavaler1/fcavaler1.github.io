@@ -17,7 +17,7 @@ I study a preferred-habitat model of the term structure in which the same margin
 <!--- <font size = "1"> Presentations: AFA 2024 PhD Poster Session (scheduled), SEA 2023, 18th EGSC Washington University in St. Louis, Yiran Fan Memorial Conference, Chicago Booth. </font> --->
 
 
-2. The Convenience Yield and the Demand for U.S. Treasury Securities \[[Paper](../files/CavaleriFilippo_CYAGT.pdf)\] 
+2. The Convenience Yield and the Demand for U.S. Treasury Securities \[[Paper](../files/CavaleriFilippo_CYAGT.pdf)\] <br>
     <span style="color:#ff6600; font-size:14px; font-weight:bold;"> Winner of the Liew Fama-Miller Fellowship for the best 2nd year paper </span>  <br>
    This version: June 2023   <br>
    <details><summary>Abstract</summary>   

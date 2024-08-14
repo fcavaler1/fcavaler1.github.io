@@ -18,14 +18,14 @@ I study a preferred-habitat model of the term structure in which the same margin
 <!--- <font size = "1"> Presentations: AFA 2024 PhD Poster Session (scheduled), SEA 2023, 18th EGSC Washington University in St. Louis, Yiran Fan Memorial Conference, Chicago Booth. </font> --->
 
 
-2. The Convenience Yield and the Demand for U.S. Treasury Securities \[[Paper](../files/CavaleriFilippo_CYAGT.pdf)\]<br>
+2.  <span style="color:#0a81e2; font-weight:bold;">The Convenience Yield and the Demand for U.S. Treasury Securities  </span> \[[Paper](../files/CavaleriFilippo_CYAGT.pdf)\]<br>
     <span style="color:#ff6600; font-size:14px; font-weight:bold;"> Winner of the Liew Fama-Miller Fellowship for the best 2nd year paper</span><br>
-   This version: June 2023 
+   <span style="font-size:14px"> This version: June 2023 </span>
    <details><summary>Abstract</summary>   
 This paper investigates the heterogeneity in investors’ preferences for non-pecuniary attributes of U.S. Treasury securities. My goal is to determine which groups of investors draw benefits from holding Treasuries and the reasons why they are willing to pay a premium over safe and liquid corporate bonds. I first present a conceptual framework to interpret the implications of heterogeneity in valuations of convenience on yields and price elasticities. Then, using sector-level bond holdings from the Financial Accounts, I recover structural demand curves and rank investors by their valuations of convenience services. Estimates reveal that the convenience of long term Treasuries is valuable for U.S. private depository institutions, and security brokers and dealers, whereas it is less attractive to households, pension funds and insurance companies. The ordering suggests that a safety attribute is secondary to liquidity even at longer maturities. Models of convenience yields should (i) accommodate heterogeneity in the elasticity of substitution between Treasuries and corporate bonds and (ii) incorporate liquidity motives at both long and short maturities.
    </details>
 <!---    <font size = "1"> Presentations: 9th Annual USC Marshall Ph.D. Conference in Finance, SEA 2022, MFR 2022, Chicago Booth. </font>--->
 
 ## Work in Progress
-1. The Demand for Safe Assets with Angelo Ranaldo and Enzo Rossi <br>
-   Draft coming soon
+1. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets with Angelo Ranaldo and Enzo Rossi </span> <br>
+    <span style="font-size:14px"> Draft coming soon </span>

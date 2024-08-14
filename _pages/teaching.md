@@ -17,7 +17,7 @@ author_profile: true
 * <span style="color:#0a81e2"> **Financial Markets and Institutions** </span>: TA for _Douglas Diamond_ (Spring 2023)
 
 ### Working Groups
-* Founder & Organizer of Chicago Booth <span style="color:#0a81e2"> **Theory Reading Group** </span> with _Zhiguo He_ (Ongoing)
+* Founder & Organizer of Chicago Booth <span style="color:#0a81e2"> **Theory Reading Group** </span> with _Zhiguo He_ (2023-2024)
 * Co-Organizer of Chicago Booth <span style="color:#0a81e2"> **Asset Pricing Working Group** </span> with _Ralph Koijen_ and _Stefan Nagel_ (Ongoing) 
 * Co-Organizer of Chicago Booth <span style="color:#0a81e2"> **Finance Brownbag** </span> (2022-2023)
 

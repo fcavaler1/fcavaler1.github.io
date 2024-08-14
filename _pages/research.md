@@ -8,9 +8,9 @@ author_profile: true
 
 ## Working Papers
 1. [A Preferred-Habitat Model with a Corporate Sector](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603103)    
-   This version: November 2023
-   Winner of the WFA PhD Candidate Award For Outstanding Research
-   Winner of the Yiran Fan Memorial Fellowship for the best 3rd year paper
+   This version: November 2023<br>
+   Winner of the WFA PhD Candidate Award For Outstanding Research<br>
+   Winner of the Yiran Fan Memorial Fellowship for the best 3rd year paper<br>
    \[[Paper](../files/CavaleriFilippo_PHMCS.pdf)\] 
    <details><summary>Abstract</summary>   
 I study a preferred-habitat model of the term structure in which the same marginal investor prices government and corporate bonds. The model endogenously generates variation in credit spreads over and above changes in credit quality. In equilibrium, credit spreads are affine functions of the aggregate risk factors, providing an equilibrium justification to credit risk valuation models. Risk premia on interest rate and credit risk are time-varying and jointly determined. Arbitrage activity strengthens the risk-neutral dependence between the aggregate risk factors beyond the observed correlation between default rates and the policy rate. Movements in credit spreads are driven by (i) variation in credit quality (ii) risk-neutral correlation of the risk factors, and (iii) portfolio rebalancing due to diversification motives. A calibrated model matches the level and the slope of the term structure of credit spreads for both investment-grade and high-yield issuers. As government bonds hedge against default risk, the strength of monetary policy transmission to corporate (Treasury) yields is weaker (stronger) when default uncertainty increases. Shocks to the short term rate move credit spreads by altering risk premia on both credit and interest rate risk. The impact of quantitative easing interventions is asymmetric and depends on the specific assets being purchased.

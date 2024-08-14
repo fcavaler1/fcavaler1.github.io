@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 1. [A Preferred-Habitat Model with a Corporate Sector](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603103)    <br>
-  <span style="color:#840404" style="font-size:14px">  Winner of the WFA PhD Candidate Award For Outstanding Research </span>  <br>
+ <span style="color:#840404; font-size:14px;">  Winner of the WFA PhD Candidate Award For Outstanding Research </span>  <br>
    Winner of the Yiran Fan Memorial Fellowship for the best 3rd year paper<br>
    This version: November 2023 \[[Paper](../files/CavaleriFilippo_PHMCS.pdf)\] 
    <details><summary>Abstract</summary>   

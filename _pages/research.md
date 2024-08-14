@@ -27,5 +27,5 @@ This paper investigates the heterogeneity in investors’ preferences for non-pe
 <!---    <font size = "1"> Presentations: 9th Annual USC Marshall Ph.D. Conference in Finance, SEA 2022, MFR 2022, Chicago Booth. </font>--->
 
 ## Work in Progress
-1. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets with Angelo Ranaldo and Enzo Rossi </span> <br>
+1. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi  <br>
     <span style="font-size:14px"> Draft coming soon </span>

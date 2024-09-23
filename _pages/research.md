@@ -10,6 +10,7 @@ author_profile: true
 
 1. <span style="color:#0a81e2; font-weight:bold;">  A Preferred-Habitat Model with a Corporate Sector </span> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603103)\] \[[Paper](../files/CavaleriFilippo_PHMCS.pdf)\]<br>
   <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * Winner of the WFA PhD Candidate Award for Outstanding Research</span><br>
+  <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * Winner of the 2024 NFA Best PhD Student Paper Award </span><br>
   <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * Winner of the Yiran Fan Memorial Fellowship for the best 3<sup>rd</sup> year paper</span><br> 
   <span style="font-size:14px"> This version: August 2024 </span>
     <details><summary>Abstract</summary>   

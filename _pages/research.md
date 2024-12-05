@@ -28,3 +28,7 @@ This paper investigates the heterogeneity in investors’ preferences for non-pe
 ## Work in Progress
 1. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi  <br>
     <span style="font-size:14px"> Draft coming soon </span>
+
+2. <span style="color:#0a81e2; font-weight:bold;"> Swiss Treasury Bond Auctions: An Update </span> with Marco Gortan, Angelo Ranaldo and Enzo Rossi  <br>
+    <span style="font-size:14px"> Draft coming soon </span>
+    

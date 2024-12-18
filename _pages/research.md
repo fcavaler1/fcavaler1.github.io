@@ -26,7 +26,8 @@ This paper investigates the heterogeneity in investors’ preferences for non-pe
 <!---    <font size = "1"> Presentations: 9th Annual USC Marshall Ph.D. Conference in Finance, SEA 2022, MFR 2022, Chicago Booth. </font>--->
 
 3. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi  <br>
-     <details><summary>Abstract</summary>
+   <span style="font-size:14px"> This version: December 2024 </span>
+   <details><summary>Abstract</summary>
 This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price dynamics. We model a uniform-price double auction with resale where long-term investors hold assets to maturity, while dealer banks distribute the asset in secondary markets. Pure private (common) values emerge when only long-term investors (dealers) participate. Using unique data on Swiss Treasury bond auctions revealing bidders' identities, our empirical findings support key predictions: (1) substantial heterogeneity in demand schedules, with steeper demand curves for dealer banks; (2) Dealer banks' demand becomes steeper with increased demand risk and bid dispersion; and (3) demand elasticity positively predicts post-auction returns. </details>
 
 

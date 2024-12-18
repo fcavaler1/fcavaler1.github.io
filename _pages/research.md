@@ -25,10 +25,13 @@ I study the interplay of interest rate risk, credit risk, and bond quantities in
 This paper investigates the heterogeneity in investors’ preferences for non-pecuniary attributes of U.S. Treasury securities. My goal is to determine which groups of investors draw benefits from holding Treasuries and the reasons why they are willing to pay a premium over safe and liquid corporate bonds. I first present a conceptual framework to interpret the implications of heterogeneity in valuations of convenience on yields and price elasticities. Then, using sector-level bond holdings from the Financial Accounts, I recover structural demand curves and rank investors by their valuations of convenience services. Estimates reveal that the convenience of long term Treasuries is valuable for U.S. private depository institutions, and security brokers and dealers, whereas it is less attractive to households, pension funds and insurance companies. The ordering suggests that a safety attribute is secondary to liquidity even at longer maturities. Models of convenience yields should (i) accommodate heterogeneity in the elasticity of substitution between Treasuries and corporate bonds and (ii) incorporate liquidity motives at both long and short maturities. </details>
 <!---    <font size = "1"> Presentations: 9th Annual USC Marshall Ph.D. Conference in Finance, SEA 2022, MFR 2022, Chicago Booth. </font>--->
 
-## Work in Progress
-1. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi  <br>
-    <span style="font-size:14px"> Draft coming soon </span>
+3. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi  <br>
+     <details><summary>Abstract</summary>
+This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price dynamics. We model a uniform-price double auction with resale where long-term investors hold assets to maturity, while dealer banks distribute the asset in secondary markets. Pure private (common) values emerge when only long-term investors (dealers) participate. Using unique data on Swiss Treasury bond auctions revealing bidders' identities, our empirical findings support key predictions: (1) substantial heterogeneity in demand schedules, with steeper demand curves for dealer banks; (2) Dealer banks' demand becomes steeper with increased demand risk and bid dispersion; and (3) demand elasticity positively predicts post-auction returns. </details>
 
-2. <span style="color:#0a81e2; font-weight:bold;"> Swiss Treasury Bond Auctions: An Update </span> with Marco Gortan, Angelo Ranaldo and Enzo Rossi  <br>
+
+
+## Work in Progress
+3. <span style="color:#0a81e2; font-weight:bold;"> Swiss Treasury Bond Auctions: An Update </span> with Marco Gortan, Angelo Ranaldo and Enzo Rossi  <br>
     <span style="font-size:14px"> Draft coming soon </span>
     

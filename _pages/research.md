@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-1. <span style="color:#0a81e2; font-weight:bold;">  A Preferred-Habitat Model with a Corporate Sector </span> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603103)\] \[[Paper](../files/CavaleriFilippo_PHMCS.pdf)\]<br>
+1. <span style="color:#0a81e2; font-weight:bold;">  A Preferred-Habitat Model with a Corporate Sector </span> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603103)\] \[[PDF](../files/CavaleriFilippo_PHMCS.pdf)\]<br>
   <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * Winner of the WFA PhD Candidate Award for Outstanding Research</span><br>
   <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * Winner of the 2024 NFA Best PhD Student Paper Award </span><br>
   <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * Winner of the Yiran Fan Memorial Fellowship for the best 3<sup>rd</sup> year paper</span><br> 
@@ -18,7 +18,7 @@ I study the interplay of interest rate risk, credit risk, and bond quantities in
 <!--- <font size = "1"> Presentations: AFA 2024 PhD Poster Session (scheduled), SEA 2023, 18th EGSC Washington University in St. Louis, Yiran Fan Memorial Conference, Chicago Booth. </font> --->
 
 
-2.  <span style="color:#0a81e2; font-weight:bold;">The Convenience Yield and the Demand for U.S. Treasury Securities  </span> \[[Paper](../files/CavaleriFilippo_CYAGT.pdf)\]<br>
+2.  <span style="color:#0a81e2; font-weight:bold;">The Convenience Yield and the Demand for U.S. Treasury Securities  </span> \[[PDF](../files/CavaleriFilippo_CYAGT.pdf)\]<br>
     <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * Winner of the Liew Fama-Miller Fellowship for the best 2<sup>nd</sup> year paper</span><br>
    <span style="font-size:14px"> This version: June 2023 </span>
      <details><summary>Abstract</summary>   
@@ -26,7 +26,7 @@ This paper investigates the heterogeneity in investors’ preferences for non-pe
 <!---    <font size = "1"> Presentations: 9th Annual USC Marshall Ph.D. Conference in Finance, SEA 2022, MFR 2022, Chicago Booth. </font>--->
 
 
-3. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061707)\] \[[SFI](https://www.sfi.ch/en/publications/n-24-109-the-demand-for-safe-assets)\] \[[Paper](../files/CavaleriFilippo_DSA.pdf)\] <br>
+3. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061707)\] \[[SFI](https://www.sfi.ch/en/publications/n-24-109-the-demand-for-safe-assets)\] \[[PDF](../files/CavaleriFilippo_DSA.pdf)\] <br>
    <span style="font-size:14px"> This version: December 2024 </span>
    <details><summary>Abstract</summary>
 This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price dynamics. We model a uniform-price double auction with resale where long-term investors hold assets to maturity, while dealer banks distribute the asset in secondary markets. Pure private (common) values emerge when only long-term investors (dealers) participate. Using unique data on Swiss Treasury bond auctions revealing bidders' identities, our empirical findings support key predictions: (1) substantial heterogeneity in demand schedules, with steeper demand curves for dealer banks; (2) Dealer banks' demand becomes steeper with increased demand risk and bid dispersion; and (3) demand elasticity positively predicts post-auction returns. </details>
